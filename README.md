@@ -1,1 +1,2 @@
 Para compilar é apenas necessario utilizar a propria ferramenta dentro do VSCode, o "Run C/C++ FILE" e utilizar o gcc.
+E é necessario ter na mesma pasta o arquivo de texto para ser ordenado.
