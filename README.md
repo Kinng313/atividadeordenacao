@@ -1,2 +1,1 @@
-Para compilar é apenas necessario utilizar a propria ferramenta dentro do VSCode, o "Run C/C++ FILE" e utilizar o gcc.
-E é necessario ter na mesma pasta o arquivo de texto para ser ordenado.
+Para compilar utilize no CMD os comandos do gcc até para localizar a pasta e quando localizar a pasta onde está o ordenar.c utilize o comando .\ordenar.exe
